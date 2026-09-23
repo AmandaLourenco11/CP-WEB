@@ -4,6 +4,7 @@ import Sobre  from './components/Sobre'
 import Funcionalidades from './components/Funcionalidades'
 import Menu from './components/Menu'
 import Depoimentos from './components/Depoimentos'
+import Footer from './components/Footer'
 
 const App = () => {
     return (
@@ -14,7 +15,7 @@ const App = () => {
             <Menu />
             <Funcionalidades />
             <Depoimentos />
-            
+            <Footer />
         </>
     )
 }
