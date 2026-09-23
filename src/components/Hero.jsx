@@ -1,12 +1,12 @@
-import imagemHero from '../assets/imagemHero.png'
-import fundoHero from '../assets/fundoHero.png'
+import img2 from '../assets/img2.jpeg'
+import img1 from '../assets/img1.jpeg'
 
 const Hero = () => {
   return (
     <section id="topo" className="relative pt-40 pb-24 px-6 bg-stone-950 text-white overflow-hidden">
       <div
         className="absolute inset-0 opacity-25 bg-cover bg-center"
-        style={{ backgroundImage: `url(${fundoHero})` }}
+        style={{ backgroundImage: `url(${img1})` }}
       />
 
       <div className="relative max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
@@ -27,7 +27,7 @@ const Hero = () => {
         </div>
 
         <img
-          src={imagemHero}
+          src={img2}
           alt="Prato de comida pronto para entrega"
           className="rounded-3xl shadow-2xl w-full object-cover aspect-[4/5]"
         />
