@@ -31,7 +31,7 @@ const Footer = () => {
         <h3 className="font-semibold mb-3">Siga o GourmetOn</h3>
 
         <div className="flex gap-4">
-          <a href="#" aria-label="Instagram" className="hover:text-rose-800 transition-colors">
+          <a href="https://www.instagram.com/gourmeton_26?stkn=NnZtdmJ2eXFwYzNr&utm_source=qr" aria-label="Instagram" className="hover:text-rose-800 transition-colors">
             Instagram
           </a>
 
