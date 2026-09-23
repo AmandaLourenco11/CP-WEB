@@ -31,11 +31,11 @@ const Footer = () => {
         <h3 className="font-semibold mb-3">Siga o GourmetOn</h3>
 
         <div className="flex gap-4">
-          <a href="#" aria-label="Instagram">
+          <a href="#" aria-label="Instagram" className="hover:text-rose-800 transition-colors">
             Instagram
           </a>
 
-          <a href="#" aria-label="Facebook">
+          <a href="#" aria-label="Facebook" className="hover:text-rose-800 transition-colors">
             Facebook
           </a>
         </div>

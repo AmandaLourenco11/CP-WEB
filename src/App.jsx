@@ -4,6 +4,7 @@ import Sobre  from './components/Sobre'
 import Funcionalidades from './components/Funcionalidades'
 import Menu from './components/Menu'
 import Depoimentos from './components/Depoimentos'
+import Contato from './components/Contato'
 import Footer from './components/Footer'
 
 const App = () => {
@@ -12,9 +13,10 @@ const App = () => {
             <Header />
             <Hero />
             <Sobre />
-            <Menu />
             <Funcionalidades />
+            <Menu />
             <Depoimentos />
+            <Contato />
             <Footer />
         </>
     )

@@ -1,7 +1,7 @@
 const beneficios = [
   ['Entrega rápida', 'Rastreamento em tempo real e pedidos chegando em até 30 minutos.'],
   ['Variedade de restaurantes', 'De comida caseira a alta gastronomia, tudo numa mesma busca.'],
-  ['Pagamento fácil', 'Cartão, Pix ou carteira digital — você escolhe como pagar.'],
+  ['Pagamento fácil', 'Cartão, Pix ou carteira digital, você escolhe como pagar.'],
 ]
 
 const Sobre = () => {

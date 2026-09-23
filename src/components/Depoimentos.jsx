@@ -6,7 +6,7 @@ const avaliacoes = [
 
 const Avaliacoes = () => {
   return (
-    <section id="avaliacoes" className="py-24 px-6 bg-stone-900 text-white">      <div className="max-w-6xl mx-auto">
+    <section id="depoimentos" className="py-24 px-6 bg-stone-900 text-white">      <div className="max-w-6xl mx-auto">
       <h2 className="text-3xl md:text-4xl mb-12 max-w-lg">O que dizem nossos clientes</h2>
 
       <div className="grid md:grid-cols-3 gap-6">
@@ -23,4 +23,3 @@ const Avaliacoes = () => {
 }
 
 export default Avaliacoes
-

@@ -11,7 +11,6 @@ const Hero = () => {
 
       <div className="relative max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
         <div>
-          <p className="text-rose-800 font-semibold mb-4">Delivery que respeita sua fome</p>
           <h1 className="text-4xl md:text-6xl font-serif leading-tight mb-6">
             Sua próxima refeição favorita está a um toque de distância
           </h1>

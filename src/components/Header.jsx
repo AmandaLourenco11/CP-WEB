@@ -37,7 +37,7 @@ const Header = () => {
           ))}
         </ul>
 
-        <a href="#contato" className="bg-rose-800 text-white px-5 py-2 rounded-full text-sm font-semibold hover:bg-rose-900 transition-colors">            Baixe o app
+        <a href="#contato" className="bg-rose-800 text-white px-5 py-2 rounded-full text-sm font-semibold hover:bg-rose-900 transition-colors">            Saiba mais sobre o APP
         </a>
       </div>
 
