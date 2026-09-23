@@ -44,4 +44,4 @@ npm install
 npm run dev
 ```
 
-O projeto estará disponível em `http://localhost:5173`.
+O projeto estará disponível em `cp-web-05-rn6yi5bs3-palomadantas16.vercel.app`.
